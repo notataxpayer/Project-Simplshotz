@@ -17,7 +17,7 @@ const Menu = () => {
               color="light-green"
             >
               <div className="text-black font-Poppins font-extrabold">
-                See More!
+                <a href="/Menu"> See More!</a>
               </div>
             </Button>
           </div>
@@ -44,7 +44,8 @@ const Menu = () => {
                 Nasi Goreng Jawa
               </div>
               <div className="text-black text-xs mr-2 ml-3 mt-2 font-bold font-Poppins">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit.{" "}
+                Nasi Goreng enak dengan bumbu khas jawa yang nendang tersedia
+                dengan 3 tingkat kepedasan (Tidak / Lumayan / Banget){" "}
               </div>
               <div className="text-black text-sm mt-6 mr-4 mb-4 font-Poppins font-bold cursor-pointer items-end justify-end flex">
                 More Details
@@ -56,7 +57,7 @@ const Menu = () => {
               <img
                 className="mx-auto pointer-events-none h-[150px] w-[200px] lg:h-[200px] lg:w-[270px] rounded-t-xl flex "
                 src={
-                  "https://res.cloudinary.com/dnyrrcacd/image/upload/v1694659971/IMK/nasgor1_vzcgcf.jpg"
+                  "https://res.cloudinary.com/dnyrrcacd/image/upload/v1701771292/coffe_ehegvv.jpg"
                 }
                 alt="MissingImg"
               />
@@ -64,12 +65,13 @@ const Menu = () => {
                 #FAROVIT
               </p>
             </div>
-            <div className="bg-green-light rounded-b-xl w-[270px]">
+            <div className="bg-green-light rounded-b-xl w-[270px] py-2">
               <div className="text-black font-extrabold font-Poppins text-md ml-2 mt-2">
-                Nasi Goreng Jawa
+                Kopi Robusta
               </div>
               <div className="text-black text-xs mr-2 ml-3 mt-2 font-bold font-Poppins">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit.{" "}
+                Kopi robusta, sebuah kopi yang nikmat untuk menemani hari malam
+                mu yang dingin{" "}
               </div>
               <div className="text-black text-sm mt-6 mr-4 mb-4 font-Poppins font-bold cursor-pointer items-end justify-end flex">
                 More Details
@@ -81,7 +83,7 @@ const Menu = () => {
               <img
                 className="mx-auto pointer-events-none h-[150px] w-[200px] lg:h-[200px] lg:w-[270px] rounded-t-xl flex "
                 src={
-                  "https://res.cloudinary.com/dnyrrcacd/image/upload/v1694659971/IMK/nasgor1_vzcgcf.jpg"
+                  "https://res.cloudinary.com/dnyrrcacd/image/upload/v1701771296/pooding_xy8ovb.jpg"
                 }
                 alt="MissingImg"
               />
@@ -91,10 +93,12 @@ const Menu = () => {
             </div>
             <div className="bg-green-light rounded-b-xl w-[270px]">
               <div className="text-black font-extrabold font-Poppins text-md ml-2 mt-2">
-                Nasi Goreng Jawa
+                Choco Pudding
               </div>
               <div className="text-black text-xs mr-2 ml-3 mt-2 font-bold font-Poppins">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit.{" "}
+                Choco pudding dengan coklat asli yang khas dan disirima dengan
+                fla rasa vanilla diatasnya. Bisa tambah addons ya (Misis /
+                Cookies / Oreo / Tidak ada){" "}
               </div>
               <div className="text-black text-sm mt-6 mr-4 mb-4 font-Poppins font-bold cursor-pointer items-end justify-end flex">
                 More Details
@@ -106,7 +110,7 @@ const Menu = () => {
               <img
                 className="mx-auto pointer-events-none h-[150px] w-[200px] lg:h-[200px] lg:w-[270px] rounded-t-xl flex "
                 src={
-                  "https://res.cloudinary.com/dnyrrcacd/image/upload/v1694659971/IMK/nasgor1_vzcgcf.jpg"
+                  "https://res.cloudinary.com/dnyrrcacd/image/upload/v1701770557/rendang1_p2ptqo.jpg"
                 }
                 alt="MissingImg"
               />
@@ -116,10 +120,12 @@ const Menu = () => {
             </div>
             <div className="bg-green-light rounded-b-xl w-[270px]">
               <div className="text-black font-extrabold font-Poppins text-md ml-2 mt-2">
-                Nasi Goreng Jawa
+                Rendang
               </div>
               <div className="text-black text-xs mr-2 ml-3 mt-2 font-bold font-Poppins">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit.{" "}
+                Daging rendang yang empuk dengan bumbu rendang yang khas
+                sumatera membuat menu ini paling nikmat disantap bersama
+                keluarga{" "}
               </div>
               <div className="text-black text-sm mt-6 mr-4 mb-4 font-Poppins font-bold cursor-pointer items-end justify-end flex">
                 More Details
