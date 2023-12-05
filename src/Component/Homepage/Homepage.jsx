@@ -1,8 +1,27 @@
-import React from "react";
+import React, { useState, useEffect } from "react";
 import { Button } from "@material-tailwind/react";
 import { Carousel } from "@material-tailwind/react";
 
 const Homepage = () => {
+  const [scrollPosition, setScrollPosition] = useState(0);
+
+  useEffect(() => {
+    const handleScroll = () => {
+      setScrollPosition(window.scrollY);
+    };
+
+    window.addEventListener("scroll", handleScroll);
+    return () => {
+      window.removeEventListener("scroll", handleScroll);
+    };
+  }, []);
+
+  const scrollToBottom = () => {
+    window.scrollTo({
+      top: document.body.scrollHeight,
+      behavior: "smooth",
+    });
+  };
   return (
     <div className="mt-12 mb-12 font-Figtree justify-center flex font-bold text-2xl bg-cover">
       <div id="container" className="flex flex-row">
@@ -53,6 +72,7 @@ const Homepage = () => {
               className="rounded-xl w-1/4 py-4 mt-2 ml-14"
               type
               color="light-green"
+              onClick={scrollToBottom}
             >
               <div className="text-black font-Poppins font-extrabold">
                 Jelajahi !
