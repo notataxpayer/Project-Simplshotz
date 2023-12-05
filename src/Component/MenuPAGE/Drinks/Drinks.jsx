@@ -23,7 +23,7 @@ const Drinks = () => {
           <div className="flex flex-col bg-green-light rounded-r-3xl items-center ">
             <div className="font-Poppins font-extrabold text-green-rift text-3xl w-10/12 text-justify mt-9 leading-loose ">
               <p className="">
-                <span className="font-bold">Delicious Meal</span>{" "}
+                <span className="font-bold">Tantizing Drinks</span>{" "}
                 <span className="font-medium">Will Be Served Here</span>
               </p>
             </div>
