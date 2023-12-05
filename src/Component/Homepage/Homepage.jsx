@@ -45,26 +45,54 @@ const Homepage = () => {
               FOLLOW US ON
             </div>
             <div className="flex flex-row ml-16 mt-4 gap-4">
-              <img
-                src="https://res.cloudinary.com/dnyrrcacd/image/upload/v1700622898/wa_j0mbgv.png"
-                alt="image 1"
-                className="h-full w-full cursor-pointer"
-              />
-              <img
-                src="https://res.cloudinary.com/dnyrrcacd/image/upload/v1700622898/ig_jsaiyf.png"
-                alt="image 1"
-                className="h-full w-full cursor-pointer"
-              />
-              <img
-                src="https://res.cloudinary.com/dnyrrcacd/image/upload/v1700622898/tktk_skstn0.png"
-                alt="image 1"
-                className="h-full w-full cursor-pointer"
-              />
-              <img
-                src="https://res.cloudinary.com/dnyrrcacd/image/upload/v1700622898/Yt_pjycit.png"
-                alt="image 1"
-                className="h-full w-full cursor-pointer"
-              />
+              <a
+                href="https://wa.me/085155280972"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="h-full w-full"
+              >
+                <img
+                  src="https://res.cloudinary.com/dnyrrcacd/image/upload/v1700622898/wa_j0mbgv.png"
+                  alt="Whatsapp"
+                  className="h-full w-full cursor-pointer"
+                />
+              </a>
+              <a
+                href="https://www.instagram.com/dyykav_"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="h-full w-full"
+              >
+                <img
+                  src="https://res.cloudinary.com/dnyrrcacd/image/upload/v1700622898/ig_jsaiyf.png"
+                  alt="Instagram"
+                  className="h-full w-full cursor-pointer"
+                />
+              </a>
+              <a
+                href="https://www.youtube.com/channel/UCwov1bQevCX5bESuvuq752g"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="h-full w-full"
+              >
+                <img
+                  src="https://res.cloudinary.com/dnyrrcacd/image/upload/v1700622898/Yt_pjycit.png"
+                  alt="Youtube"
+                  className="h-full w-full cursor-pointer"
+                />
+              </a>
+              <a
+                href="https://www.tiktok.com/"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="h-full w-full"
+              >
+                <img
+                  src="https://res.cloudinary.com/dnyrrcacd/image/upload/v1700622898/tktk_skstn0.png"
+                  alt="Tiktok"
+                  className="h-full w-full cursor-pointer"
+                />
+              </a>
             </div>
             <div className="mt-4 ml-16 font-extrabold font-Poppins flex flex-row"></div>
             <Button

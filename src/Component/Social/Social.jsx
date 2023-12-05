@@ -8,38 +8,54 @@ const Social = () => {
           OUR SOCIAL MEDIA
         </div>
         <div className="flex flex-row gap-24 ml-8 h-1/3 w-8/12 mt-24">
-          <div className="flex flex-col items-center justify-center gap-4 ml-48">
+          <a
+            className="flex flex-col items-center justify-center gap-4 ml-48"
+            href="https://wa.me/085155280972"
+            target="_blank"
+          >
             <img
               src="https://res.cloudinary.com/dnyrrcacd/image/upload/v1700622898/wa_j0mbgv.png"
               alt="image 1"
               className="h-2/3 full cursor-pointer"
             />
             <div className="font-Poppins font-bold">085155280972</div>
-          </div>
-          <div className="flex flex-col items-center justify-center gap-4">
+          </a>
+          <a
+            className="flex flex-col items-center justify-center gap-4"
+            href="https://www.instagram.com/dyykav_"
+            target="_blank"
+          >
             <img
               src="https://res.cloudinary.com/dnyrrcacd/image/upload/v1700622898/ig_jsaiyf.png"
               alt="image 1"
               className="h-2/3 full cursor-pointer"
             />
-            <div className="font-Poppins font-bold">@Extanquish</div>
-          </div>
-          <div className="flex flex-col items-center justify-center gap-4">
+            <div className="font-Poppins font-bold">@dyykav_</div>
+          </a>
+          <a
+            className="flex flex-col items-center justify-center gap-4"
+            href="https://www.youtube.com/channel/UCwov1bQevCX5bESuvuq752g"
+            target="_blank"
+          >
             <img
               src="https://res.cloudinary.com/dnyrrcacd/image/upload/v1700622898/tktk_skstn0.png"
               alt="image 1"
               className="h-2/3 w-full cursor-pointer"
             />
             <div className="font-Poppins font-bold">dymimi</div>
-          </div>
-          <div className="flex flex-col items-center justify-center gap-4">
+          </a>
+          <a
+            className="flex flex-col items-center justify-center gap-4"
+            href="https://www.tiktok.com/"
+            target="_blank"
+          >
             <img
               src="https://res.cloudinary.com/dnyrrcacd/image/upload/v1700622898/Yt_pjycit.png"
               alt="image 1"
               className="h-2/3 full cursor-pointer"
             />
             <div className="font-Poppins font-bold">@youtube.com</div>
-          </div>
+          </a>
         </div>
         <div className="flex flex-row mt-24">
           <img
