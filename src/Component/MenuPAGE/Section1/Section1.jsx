@@ -54,7 +54,8 @@ const Section1 = () => {
                 Nasi Goreng Jawa
               </div>
               <div className="text-black text-xs mr-2 ml-5 mt-4 font-bold font-Poppins">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit.{" "}
+                Nasi Goreng enak dengan bumbu khas jawa yang nendang tersedia
+                dengan 3 tingkat kepedasan (Tidak / Lumayan / Banget){" "}
               </div>
               <div className="text-green-rift text-sm mt-9 mr-4 mb-4 font-Poppins font-bold cursor-pointer items-end justify-end flex">
                 More Details
@@ -69,7 +70,7 @@ const Section1 = () => {
               <img
                 className="mx-auto pointer-events-none h-[150px] w-[200px] lg:h-[270px] lg:w-[340px] rounded-t-xl flex "
                 src={
-                  "https://res.cloudinary.com/dnyrrcacd/image/upload/v1694659971/IMK/nasgor1_vzcgcf.jpg"
+                  "https://res.cloudinary.com/dnyrrcacd/image/upload/v1700627765/rendang3_tbtr2f.jpg"
                 }
                 alt="MissingImg"
               />
@@ -82,7 +83,9 @@ const Section1 = () => {
                 Rendang
               </div>
               <div className="text-black text-xs mr-2 ml-5 mt-4 font-bold font-Poppins">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit.{" "}
+                Daging rendang yang empuk dengan bumbu rendang yang khas
+                sumatera membuat menu ini paling nikmat disantap bersama
+                keluarga{" "}
               </div>
               <div className="text-green-rift text-sm mt-9 mr-4 mb-4 font-Poppins font-bold cursor-pointer items-end justify-end flex">
                 More Details
@@ -97,7 +100,7 @@ const Section1 = () => {
               <img
                 className="mx-auto pointer-events-none h-[150px] w-[200px] lg:h-[270px] lg:w-[340px] rounded-t-xl flex "
                 src={
-                  "https://res.cloudinary.com/dnyrrcacd/image/upload/v1694659971/IMK/nasgor1_vzcgcf.jpg"
+                  "https://res.cloudinary.com/dnyrrcacd/image/upload/v1701770663/sate1_jmtbd6.jpg"
                 }
                 alt="MissingImg"
               />
@@ -110,7 +113,8 @@ const Section1 = () => {
                 Sate
               </div>
               <div className="text-black text-xs mr-2 ml-5 mt-4 font-bold font-Poppins">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit.{" "}
+                Sate daging isi 10 tusuk per porsi nya, terdapat 3 pilihan
+                daging (Ayam / Sapi / Kambing){" "}
               </div>
               <div className="text-green-rift text-sm mt-9 mr-4 mb-4 font-Poppins font-bold cursor-pointer items-end justify-end flex">
                 More Details
@@ -125,7 +129,7 @@ const Section1 = () => {
               <img
                 className="mx-auto pointer-events-none h-[150px] w-[200px] lg:h-[270px] lg:w-[340px] rounded-t-xl flex "
                 src={
-                  "https://res.cloudinary.com/dnyrrcacd/image/upload/v1694659971/IMK/nasgor1_vzcgcf.jpg"
+                  "https://res.cloudinary.com/dnyrrcacd/image/upload/v1701770677/soto3_w6ygqw.jpg"
                 }
                 alt="MissingImg"
               />
@@ -138,9 +142,11 @@ const Section1 = () => {
                 Soto Ayam
               </div>
               <div className="text-black text-xs mr-2 ml-5 mt-4 font-bold font-Poppins">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit.{" "}
+                Soto Ayam dengan kuah yang segar dan tentunya disajikan hangat,
+                lengkap dengan 1 porsi nasi hangat. Bisa pilih untuk isi ayam
+                nya (Daging saja / Kulit Saja / Daging + kulit){" "}
               </div>
-              <div className="text-green-rift text-sm mt-9 mr-4 mb-4 font-Poppins font-bold cursor-pointer items-end justify-end flex">
+              <div className="text-green-rift text-sm mt-7 mr-4 mb-4 font-Poppins font-bold cursor-pointer items-end justify-end flex">
                 More Details
               </div>
             </div>
@@ -153,7 +159,7 @@ const Section1 = () => {
               <img
                 className="mx-auto pointer-events-none h-[150px] w-[200px] lg:h-[270px] lg:w-[340px] rounded-t-xl flex "
                 src={
-                  "https://res.cloudinary.com/dnyrrcacd/image/upload/v1694659971/IMK/nasgor1_vzcgcf.jpg"
+                  "https://res.cloudinary.com/dnyrrcacd/image/upload/v1701770683/bakso3_c4wjz3.jpg"
                 }
                 alt="MissingImg"
               />
@@ -166,9 +172,11 @@ const Section1 = () => {
                 Bakso Malang
               </div>
               <div className="text-black text-xs mr-2 ml-5 mt-4 font-bold font-Poppins">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit.{" "}
+                Bakso dengan bumbu khas malang dengan isi yang banyak, ada 3
+                pentol kecil, 1 pentol besar, 1 pentol kasar + isi telur puyuh,
+                gorengan dan 1 siomay{" "}
               </div>
-              <div className="text-green-rift text-sm mt-9 mr-4 mb-4 font-Poppins font-bold cursor-pointer items-end justify-end flex">
+              <div className="text-green-rift text-sm mt-7 mr-4 mb-4 font-Poppins font-bold cursor-pointer items-end justify-end flex">
                 More Details
               </div>
             </div>

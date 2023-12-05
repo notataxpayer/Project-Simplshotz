@@ -16,7 +16,7 @@ const Drinks = () => {
       <div className="mx-40 flex flex-col items-center justify-center">
         <div className="flex flex-row mt-24 ml-24">
           <img
-            src="https://res.cloudinary.com/dnyrrcacd/image/upload/v1700630551/noodle_obhew1.jpg"
+            src="https://res.cloudinary.com/dnyrrcacd/image/upload/v1701770784/download_12_iqcgll.png"
             alt="image 1"
             className="h-[300px] pointer-events-none rounded-l-3xl"
           />
@@ -41,7 +41,7 @@ const Drinks = () => {
               <img
                 className="mx-auto pointer-events-none h-[150px] w-[200px] lg:h-[270px] lg:w-[340px] rounded-t-xl flex "
                 src={
-                  "https://res.cloudinary.com/dnyrrcacd/image/upload/v1694659971/IMK/nasgor1_vzcgcf.jpg"
+                  "https://res.cloudinary.com/dnyrrcacd/image/upload/v1701770858/download_6_enxrf2.png"
                 }
                 alt="MissingImg"
               />
@@ -54,7 +54,8 @@ const Drinks = () => {
                 Teh Tarik
               </div>
               <div className="text-black text-xs mr-2 ml-5 mt-4 font-bold font-Poppins">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit.{" "}
+                Teh tarik yang nikmat bisa disajikan cold / hot dengan request
+                gula juga!.{" "}
               </div>
               <div className="text-green-rift text-sm mt-9 mr-4 mb-4 font-Poppins font-bold cursor-pointer items-end justify-end flex">
                 More Details
@@ -69,7 +70,7 @@ const Drinks = () => {
               <img
                 className="mx-auto pointer-events-none h-[150px] w-[200px] lg:h-[270px] lg:w-[340px] rounded-t-xl flex "
                 src={
-                  "https://res.cloudinary.com/dnyrrcacd/image/upload/v1694659971/IMK/nasgor1_vzcgcf.jpg"
+                  "https://res.cloudinary.com/dnyrrcacd/image/upload/v1701770858/download_7_ml6dkj.png"
                 }
                 alt="MissingImg"
               />
@@ -82,7 +83,8 @@ const Drinks = () => {
                 Kopi Tubruk
               </div>
               <div className="text-black text-xs mr-2 ml-5 mt-4 font-bold font-Poppins">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit.{" "}
+                Kopi tubruk yang nikmat untuk menjadi teman sejati nongkrong
+                malam kamu!{" "}
               </div>
               <div className="text-green-rift text-sm mt-9 mr-4 mb-4 font-Poppins font-bold cursor-pointer items-end justify-end flex">
                 More Details
@@ -97,7 +99,7 @@ const Drinks = () => {
               <img
                 className="mx-auto pointer-events-none h-[150px] w-[200px] lg:h-[270px] lg:w-[340px] rounded-t-xl flex "
                 src={
-                  "https://res.cloudinary.com/dnyrrcacd/image/upload/v1694659971/IMK/nasgor1_vzcgcf.jpg"
+                  "https://res.cloudinary.com/dnyrrcacd/image/upload/v1701770858/download_8_djo8yt.png"
                 }
                 alt="MissingImg"
               />
@@ -110,7 +112,8 @@ const Drinks = () => {
                 Es Cendol
               </div>
               <div className="text-black text-xs mr-2 ml-5 mt-4 font-bold font-Poppins">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit.{" "}
+                Es cendol dengan isian yang banyak disajikan pastinya cold
+                membuat suasana panas menjadi adem seketika{" "}
               </div>
               <div className="text-green-rift text-sm mt-9 mr-4 mb-4 font-Poppins font-bold cursor-pointer items-end justify-end flex">
                 More Details
@@ -125,7 +128,7 @@ const Drinks = () => {
               <img
                 className="mx-auto pointer-events-none h-[150px] w-[200px] lg:h-[270px] lg:w-[340px] rounded-t-xl flex "
                 src={
-                  "https://res.cloudinary.com/dnyrrcacd/image/upload/v1694659971/IMK/nasgor1_vzcgcf.jpg"
+                  "https://res.cloudinary.com/dnyrrcacd/image/upload/v1701770858/download_9_qba4pg.png"
                 }
                 alt="MissingImg"
               />
@@ -138,7 +141,8 @@ const Drinks = () => {
                 Sekoteng
               </div>
               <div className="text-black text-xs mr-2 ml-5 mt-4 font-bold font-Poppins">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit.{" "}
+                minuman khas Jawa Tengah yang terbuat dari air jahe yang biasa
+                dihidangkan dalam keadaan panas dan dikonsumsi pada malam hari.{" "}
               </div>
               <div className="text-green-rift text-sm mt-9 mr-4 mb-4 font-Poppins font-bold cursor-pointer items-end justify-end flex">
                 More Details
@@ -151,9 +155,9 @@ const Drinks = () => {
           >
             <div className="flex">
               <img
-                className="mx-auto pointer-events-none h-[150px] w-[200px] lg:h-[270px] lg:w-[340px] rounded-t-xl flex "
+                className="mx-auto pointer-events-none h-[150px] w-[200px] lg:h-[270px] lg:w-[340px] rounded-t-xl flex rounded-b-none"
                 src={
-                  "https://res.cloudinary.com/dnyrrcacd/image/upload/v1694659971/IMK/nasgor1_vzcgcf.jpg"
+                  "https://res.cloudinary.com/dnyrrcacd/image/upload/v1701770859/download_10_k66w7q.png"
                 }
                 alt="MissingImg"
               />
@@ -166,7 +170,9 @@ const Drinks = () => {
                 Es Campur
               </div>
               <div className="text-black text-xs mr-2 ml-5 mt-4 font-bold font-Poppins">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit.{" "}
+                Es campur yang segar ini bisa request untuk disajikan dalam
+                gelas besar ataupun dalam mangkok! bisa request es nya mau
+                seberapa loh!{" "}
               </div>
               <div className="text-green-rift text-sm mt-9 mr-4 mb-4 font-Poppins font-bold cursor-pointer items-end justify-end flex">
                 More Details

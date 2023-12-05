@@ -16,7 +16,7 @@ const SideDish = () => {
       <div className="mx-40 flex flex-col items-center justify-center">
         <div className="flex flex-row mt-24 ml-24">
           <img
-            src="https://res.cloudinary.com/dnyrrcacd/image/upload/v1700630551/noodle_obhew1.jpg"
+            src="https://res.cloudinary.com/dnyrrcacd/image/upload/v1701771067/download_17_ynso6n.png"
             alt="image 1"
             className="h-[300px] pointer-events-none rounded-l-3xl"
           />
@@ -41,7 +41,7 @@ const SideDish = () => {
               <img
                 className="mx-auto pointer-events-none h-[150px] w-[200px] lg:h-[270px] lg:w-[340px] rounded-t-xl flex "
                 src={
-                  "https://res.cloudinary.com/dnyrrcacd/image/upload/v1694659971/IMK/nasgor1_vzcgcf.jpg"
+                  "https://res.cloudinary.com/dnyrrcacd/image/upload/v1701771148/download_13_m28e7q.png"
                 }
                 alt="MissingImg"
               />
@@ -51,10 +51,11 @@ const SideDish = () => {
             </div>
             <div className="bg-white rounded-b-2xl w-[340px] h-[180px]">
               <div className="text-black font-extrabold text-xl font-Poppins text-md ml-2 mt-5">
-                Nasi Goreng Jawa
+                Sambal
               </div>
               <div className="text-black text-xs mr-2 ml-5 mt-4 font-bold font-Poppins">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit.{" "}
+                Tambah sambal untuk menjadi teman makan mu! bisa request tingkat
+                kepedasan dengan 3 level (Biasa / Banget / Sangat Pedas){" "}
               </div>
               <div className="text-green-rift text-sm mt-9 mr-4 mb-4 font-Poppins font-bold cursor-pointer items-end justify-end flex">
                 More Details
@@ -69,7 +70,7 @@ const SideDish = () => {
               <img
                 className="mx-auto pointer-events-none h-[150px] w-[200px] lg:h-[270px] lg:w-[340px] rounded-t-xl flex "
                 src={
-                  "https://res.cloudinary.com/dnyrrcacd/image/upload/v1694659971/IMK/nasgor1_vzcgcf.jpg"
+                  "https://res.cloudinary.com/dnyrrcacd/image/upload/v1701771148/download_14_sleezo.png"
                 }
                 alt="MissingImg"
               />
@@ -79,10 +80,11 @@ const SideDish = () => {
             </div>
             <div className="bg-white rounded-b-2xl w-[340px] h-[180px]">
               <div className="text-black font-extrabold text-xl font-Poppins text-md ml-2 mt-5">
-                Rendang
+                Krupuk Udang
               </div>
               <div className="text-black text-xs mr-2 ml-5 mt-4 font-bold font-Poppins">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit.{" "}
+                Nambah krupuk udang nya untuk menjadi kriuk kriuk saat kamu
+                makan! disajikan juga dengan tambahan saos sambal!{" "}
               </div>
               <div className="text-green-rift text-sm mt-9 mr-4 mb-4 font-Poppins font-bold cursor-pointer items-end justify-end flex">
                 More Details
@@ -97,7 +99,7 @@ const SideDish = () => {
               <img
                 className="mx-auto pointer-events-none h-[150px] w-[200px] lg:h-[270px] lg:w-[340px] rounded-t-xl flex "
                 src={
-                  "https://res.cloudinary.com/dnyrrcacd/image/upload/v1694659971/IMK/nasgor1_vzcgcf.jpg"
+                  "https://res.cloudinary.com/dnyrrcacd/image/upload/v1701771148/download_15_yopkts.png"
                 }
                 alt="MissingImg"
               />
@@ -107,10 +109,12 @@ const SideDish = () => {
             </div>
             <div className="bg-white rounded-b-2xl w-[340px] h-[180px]">
               <div className="text-black font-extrabold text-xl font-Poppins text-md ml-2 mt-5">
-                Sate
+                Urap
               </div>
               <div className="text-black text-xs mr-2 ml-5 mt-4 font-bold font-Poppins">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit.{" "}
+                Sayur urap cocok dimakan disaat cuaca sedang panas! disajikan
+                dengan berbagai sayur dicampur dan diberi parutan kelapa
+                diatasnya{" "}
               </div>
               <div className="text-green-rift text-sm mt-9 mr-4 mb-4 font-Poppins font-bold cursor-pointer items-end justify-end flex">
                 More Details
@@ -125,7 +129,7 @@ const SideDish = () => {
               <img
                 className="mx-auto pointer-events-none h-[150px] w-[200px] lg:h-[270px] lg:w-[340px] rounded-t-xl flex "
                 src={
-                  "https://res.cloudinary.com/dnyrrcacd/image/upload/v1694659971/IMK/nasgor1_vzcgcf.jpg"
+                  "https://res.cloudinary.com/dnyrrcacd/image/upload/v1701771149/download_18_t9g7bq.png"
                 }
                 alt="MissingImg"
               />
@@ -135,10 +139,11 @@ const SideDish = () => {
             </div>
             <div className="bg-white rounded-b-2xl w-[340px] h-[180px]">
               <div className="text-black font-extrabold text-xl font-Poppins text-md ml-2 mt-5">
-                Soto Ayam
+                Perkedel Kentang
               </div>
               <div className="text-black text-xs mr-2 ml-5 mt-4 font-bold font-Poppins">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit.{" "}
+                Perkedel kentang dibuat secara homemade melalui kentang lokal
+                dengan menggunakan bumbu khas simpleshotz loh!{" "}
               </div>
               <div className="text-green-rift text-sm mt-9 mr-4 mb-4 font-Poppins font-bold cursor-pointer items-end justify-end flex">
                 More Details
@@ -153,7 +158,7 @@ const SideDish = () => {
               <img
                 className="mx-auto pointer-events-none h-[150px] w-[200px] lg:h-[270px] lg:w-[340px] rounded-t-xl flex "
                 src={
-                  "https://res.cloudinary.com/dnyrrcacd/image/upload/v1694659971/IMK/nasgor1_vzcgcf.jpg"
+                  "https://res.cloudinary.com/dnyrrcacd/image/upload/v1701771148/download_16_baticn.png"
                 }
                 alt="MissingImg"
               />
@@ -163,12 +168,14 @@ const SideDish = () => {
             </div>
             <div className="bg-white rounded-b-2xl w-[340px] h-[180px]">
               <div className="text-black font-extrabold text-xl font-Poppins text-md ml-2 mt-5">
-                Bakso Malang
+                Sayur Asem
               </div>
               <div className="text-black text-xs mr-2 ml-5 mt-4 font-bold font-Poppins">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit.{" "}
+                Sayuran yang berisi kacang panjang, manisa, jagung dan daging
+                ayam ini seger banget! bisa request untuk tambah isiannya (Ayam
+                / Kulit / Campur){" "}
               </div>
-              <div className="text-green-rift text-sm mt-9 mr-4 mb-4 font-Poppins font-bold cursor-pointer items-end justify-end flex">
+              <div className="text-green-rift text-sm mt-5 mr-4 mb-4 font-Poppins font-bold cursor-pointer items-end justify-end flex">
                 More Details
               </div>
             </div>
