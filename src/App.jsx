@@ -5,9 +5,9 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Home from "./Pages/Home";
 import Menu from "./Pages/Menu";
 import MenuHome from "../src/Component/Menu/Menu";
-import About from "./Pages/About";
+import MemberShip from "./Pages/JoinMemberShip";
 import Reservasi from "../src/Component/Reservasi/Reserve/Reservasi";
-import Faq from "./Pages/Faq";
+import Promo from "./Pages/Promo";
 import Foods from "../src/Component/MenuPAGE/Section1/Section1";
 import Drinks from "../src/Component/MenuPAGE/Drinks/Drinks";
 import SideDish from "../src/Component/MenuPAGE/SideDish/SideDish";
@@ -16,7 +16,7 @@ import { Footer } from "./Component/Footer";
 
 const App = () => {
   return (
-    <div className="">
+    <div className="bg-cust-white">
       <Nav />
       <BrowserRouter>
         <Routes>
@@ -24,8 +24,8 @@ const App = () => {
           <Route path="/Home" index element={<Home />} />
           <Route path="/Menu" index element={<Menu />} />
           <Route path="/Menu2" index element={<MenuHome />} />
-          <Route path="/About" index element={<About />} />
-          <Route path="/Faq" index element={<Faq />} />
+          <Route path="/MemberShip" index element={<MemberShip />} />
+          <Route path="/Promo" index element={<Promo />} />
           <Route path="/foods" element={<Foods />} />
           <Route path="/drinks" element={<Drinks />} />
           <Route path="/reservasi" element={<Reservasi />} />

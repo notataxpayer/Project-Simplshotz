@@ -1,12 +1,12 @@
 import React from "react";
 import FAQ from "../Component/Faq/Faqcomp";
 
-const Faq = () => {
+const Promo = () => {
   return (
-    <div className="flex justify-center flex-col items-center font-Figtree">
+    <div className="flex font-Poppins ">
       <FAQ />
     </div>
   );
 };
 
-export default Faq;
+export default Promo;

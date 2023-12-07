@@ -39,7 +39,7 @@ const SideDish = () => {
           >
             <div className="flex">
               <img
-                className="mx-auto pointer-events-none h-[150px] w-[200px] lg:h-[270px] lg:w-[340px] rounded-t-xl flex "
+                className="mx-auto bg-white pointer-events-none h-[150px] w-[200px] lg:h-[270px] lg:w-[340px] rounded-t-xl flex "
                 src={
                   "https://res.cloudinary.com/dnyrrcacd/image/upload/v1701771148/download_13_m28e7q.png"
                 }
@@ -68,7 +68,7 @@ const SideDish = () => {
           >
             <div className="flex">
               <img
-                className="mx-auto pointer-events-none h-[150px] w-[200px] lg:h-[270px] lg:w-[340px] rounded-t-xl flex "
+                className="mx-auto bg-white pointer-events-none h-[150px] w-[200px] lg:h-[270px] lg:w-[340px] rounded-t-xl flex "
                 src={
                   "https://res.cloudinary.com/dnyrrcacd/image/upload/v1701771148/download_14_sleezo.png"
                 }
@@ -97,7 +97,7 @@ const SideDish = () => {
           >
             <div className="flex">
               <img
-                className="mx-auto pointer-events-none h-[150px] w-[200px] lg:h-[270px] lg:w-[340px] rounded-t-xl flex "
+                className="mx-auto bg-white pointer-events-none h-[150px] w-[200px] lg:h-[270px] lg:w-[340px] rounded-t-xl flex "
                 src={
                   "https://res.cloudinary.com/dnyrrcacd/image/upload/v1701771148/download_15_yopkts.png"
                 }
@@ -122,12 +122,12 @@ const SideDish = () => {
             </div>
           </div>
           <div
-            className="flex flex-col border-black border-2 rounded-2xl"
+            className="flex flex-col  border-black border-2 rounded-2xl"
             id="card-1"
           >
             <div className="flex">
               <img
-                className="mx-auto pointer-events-none h-[150px] w-[200px] lg:h-[270px] lg:w-[340px] rounded-t-xl flex "
+                className="mx-auto bg-white pointer-events-none h-[150px] w-[200px] lg:h-[270px] lg:w-[340px] rounded-t-xl flex "
                 src={
                   "https://res.cloudinary.com/dnyrrcacd/image/upload/v1701771149/download_18_t9g7bq.png"
                 }
@@ -156,7 +156,7 @@ const SideDish = () => {
           >
             <div className="flex">
               <img
-                className="mx-auto pointer-events-none h-[150px] w-[200px] lg:h-[270px] lg:w-[340px] rounded-t-xl flex "
+                className="mx-auto bg-white pointer-events-none h-[150px] w-[200px] lg:h-[270px] lg:w-[340px] rounded-t-xl flex "
                 src={
                   "https://res.cloudinary.com/dnyrrcacd/image/upload/v1701771148/download_16_baticn.png"
                 }

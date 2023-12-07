@@ -39,7 +39,7 @@ const Drinks = () => {
           >
             <div className="flex">
               <img
-                className="mx-auto pointer-events-none h-[150px] w-[200px] lg:h-[270px] lg:w-[340px] rounded-t-xl flex "
+                className="mx-auto bg-white pointer-events-none h-[150px] w-[200px] lg:h-[270px] lg:w-[340px] rounded-t-xl flex "
                 src={
                   "https://res.cloudinary.com/dnyrrcacd/image/upload/v1701770858/download_6_enxrf2.png"
                 }
@@ -68,7 +68,7 @@ const Drinks = () => {
           >
             <div className="flex">
               <img
-                className="mx-auto pointer-events-none h-[150px] w-[200px] lg:h-[270px] lg:w-[340px] rounded-t-xl flex "
+                className="mx-auto bg-white pointer-events-none h-[150px] w-[200px] lg:h-[270px] lg:w-[340px] rounded-t-xl flex "
                 src={
                   "https://res.cloudinary.com/dnyrrcacd/image/upload/v1701770858/download_7_ml6dkj.png"
                 }
@@ -97,7 +97,7 @@ const Drinks = () => {
           >
             <div className="flex">
               <img
-                className="mx-auto pointer-events-none h-[150px] w-[200px] lg:h-[270px] lg:w-[340px] rounded-t-xl flex "
+                className="mx-auto bg-white pointer-events-none h-[150px] w-[200px] lg:h-[270px] lg:w-[340px] rounded-t-xl flex "
                 src={
                   "https://res.cloudinary.com/dnyrrcacd/image/upload/v1701770858/download_8_djo8yt.png"
                 }
@@ -126,7 +126,7 @@ const Drinks = () => {
           >
             <div className="flex">
               <img
-                className="mx-auto pointer-events-none h-[150px] w-[200px] lg:h-[270px] lg:w-[340px] rounded-t-xl flex "
+                className="mx-auto bg-white pointer-events-none h-[150px] w-[200px] lg:h-[270px] lg:w-[340px] rounded-t-xl flex "
                 src={
                   "https://res.cloudinary.com/dnyrrcacd/image/upload/v1701770858/download_9_qba4pg.png"
                 }
@@ -155,7 +155,7 @@ const Drinks = () => {
           >
             <div className="flex">
               <img
-                className="mx-auto pointer-events-none h-[150px] w-[200px] lg:h-[270px] lg:w-[340px] rounded-t-xl flex rounded-b-none"
+                className="mx-auto bg-white pointer-events-none h-[150px] w-[200px] lg:h-[270px] lg:w-[340px] rounded-t-xl flex rounded-b-none"
                 src={
                   "https://res.cloudinary.com/dnyrrcacd/image/upload/v1701770859/download_10_k66w7q.png"
                 }

@@ -1,7 +1,3 @@
-import About from "../../Pages/About";
-import Home from "../../Pages/Home";
-import Faq from "../../Pages/Faq";
-import Menu from "../../Pages/Menu";
 import React from "react";
 import {
   Navbar,
@@ -56,10 +52,10 @@ const Nav = () => {
         className="p-1 font-normal"
       >
         <a
-          href="About"
+          href="MemberShip"
           className="flex items-center font-extrabold font-Poppins"
         >
-          About Us
+          Membership
         </a>
       </Typography>
       <Typography
@@ -68,8 +64,11 @@ const Nav = () => {
         color="blue-gray"
         className="p-1 font-normal"
       >
-        <a href="Faq" className="flex items-center font-extrabold font-Poppins">
-          FAQ
+        <a
+          href="Promo"
+          className="flex items-center font-extrabold font-Poppins"
+        >
+          Promo
         </a>
       </Typography>
     </ul>

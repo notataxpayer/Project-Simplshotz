@@ -11,6 +11,7 @@ module.exports = withMT({
       },
       colors: {
         "green-rift": "#079992",
+        "cust-white": "#F2F2F2",
         "green-lime": "#7BED9F",
         "wild-watermelon": "#FF6B81",
         "green-light": "#B8E994",
